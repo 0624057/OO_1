@@ -30,9 +30,11 @@ ___
 |sdfghjky|drhdghgfh|zhghzfhgzfhz|
 |zghghghx|fdsgdfhgf|strgzfhghzgh|
 
-**gjjikghdf;gjkfl**
-*fjghjfhgjnkldfjgk*
-~~fjgoifgikdfljgjldf~~
+**專題要做什麼**
+
+*斜體*
+
+~~刪除線~~
 
 :massage:
 
