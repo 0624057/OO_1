@@ -18,7 +18,7 @@
 ___
 
 ###### 
-> First assignment
+``` First assignment```
 
 
 <http://140.133.78.73/>
@@ -29,6 +29,10 @@ ___
 |:-----------|:------------:|---------------:|
 |sdfghjky|drhdghgfh|zhghzfhgzfhz|
 |zghghghx|fdsgdfhgf|strgzfhghzgh|
+
+**gjjikghdf;gjkfl**
+*fjghjfhgjnkldfjgk*
+~~fjgoifgikdfljgjldf~~
 
 :massage:
 
