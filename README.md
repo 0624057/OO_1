@@ -17,6 +17,8 @@ First assignment
 
 
 
->srzdghkhb;
 
-kjhjkgytdfrtdyjtfulioyioutguugti
+
+<http://140.133.78.73/>
+
+[選課系統](http://140.133.78.73/)
