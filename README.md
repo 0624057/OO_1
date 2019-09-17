@@ -27,4 +27,6 @@ First assignment
 
 :massage:
 
-![no file](gmail.png "第一科大")
+![no file](gmail.png "信箱")
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
