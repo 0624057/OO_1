@@ -2,8 +2,7 @@
 
 ## 0624057
 
-### 
-> 資管 3A
+### 資管 3A
 
 #### 區呵呵
 
@@ -18,7 +17,12 @@
 ___
 
 ###### 
-``` First assignment```
+`First assignment`
+
+
+`ˋˋ
+First assignment
+
 
 
 <http://140.133.78.73/>
