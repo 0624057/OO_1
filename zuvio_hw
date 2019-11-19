@@ -7,3 +7,37 @@
 程式碼請放在個人的github 
 答案請列出其連結
 
+ˋˋˋjava
+
+abstract class CShape
+{
+  protected String color;
+  public void setColor(String str)
+  {
+    color=str;
+  }
+  public abstract void show();
+}
+
+
+class CTriangle extends CShape
+{
+  protected double length,width,height;
+  publis CTriangle (double a,double b,double c)
+  {
+  length=a;
+  width=b;
+  height=c;
+  }
+  public static void main(String[] args) {
+        System.out.println("color="+color+", ");
+        System.out.println("area="+length*width*height);
+    }
+}
+
+
+
+
+ˋˋˋ
+
+P.7
