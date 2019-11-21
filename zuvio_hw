@@ -8,7 +8,6 @@
 答案請列出其連結
 
 ˋˋˋjava
-
 abstract class CShape
 {
   protected String color;
@@ -23,21 +22,26 @@ abstract class CShape
 class CTriangle extends CShape
 {
   protected double length,width,height;
-  publis CTriangle (double a,double b,double c)
+  public CTriangle (double a,double b,double c)
   {
   length=a;
-  width=b;
-  height=c;
+  height=b;
+  width=c;
   }
-  public static void main(String[] args) {
-        System.out.println("color="+color+", ");
-        System.out.println("area="+length*width*height);
+  public void show() {
+        System.out.println("color="+color);
+        System.out.println("area="+length*height*0.5);
     }
 }
 
 
-
-
+public class finallyresult
+{
+  public static void main(String args[])
+  {
+    CTriangle rect=new CTriangle(3,4,5);
+    rect.setColor("Red");
+    rect.show();
+  }
+}
 ˋˋˋ
-
-P.7
